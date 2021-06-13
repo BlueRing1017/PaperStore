@@ -1,0 +1,6 @@
+name: Untitle
+version: @version@
+main: template.untitle.Untitle
+api-version: 1.16
+authors: [ BlueRing1017 ]
+description: Template of Minecraft Plugin
